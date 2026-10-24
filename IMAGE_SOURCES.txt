@@ -1,9 +1,0 @@
-DOWNTOWN 44 DEMO — IMAGE NOTES
-
-The hero and several feature panels use actual photos of Downtown 44 / its location from public listings and public social posts, plus an outlet photo from Barbeque Nation:
-- Downtown 44 entrance: Tripadvisor photo listing
-- Downtown 44 exterior: Apple Maps image listing
-- Downtown 44 event photo: public LinkedIn post
-- Barbeque Nation interior: official Barbeque Nation outlet page
-
-These images are externally hosted and may change or stop loading. For a client-ready launch, obtain permission to use the images, download approved image files into an /assets folder, and update CSS paths to local files. The food/brand tiles still use illustrative stock photography.
